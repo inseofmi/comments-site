@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+  #giscus_container {
+    padding: 5px;
+    margin: 20px 10px;
+  }
+}
